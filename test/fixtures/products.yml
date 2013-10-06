@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  average: 1.5
+  price: 9.99
+  active: false
+
+two:
+  name: MyString
+  average: 1.5
+  price: 9.99
+  active: false
